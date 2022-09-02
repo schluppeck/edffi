@@ -20,20 +20,20 @@ Check out the [handbook](00-handbook/handbook.md) for details, the timetable, in
 
 ## Some of the lecture materials
 
-- D Schluppeck | Overview, **fMRI & study design.** [lecture materials](schluppeck-design/lecture.md)
+- D Schluppeck - Overview, **fMRI & study design.** [lecture materials](schluppeck-design/lecture.md)
 
-- M Schürmann  | **Basic neuroanatomy**
-- K Dyke       | **Brain stimulation & study design.**
-- L Cragg      | **Developmental neuroimaging.**
+- M Schürmann  - **Basic neuroanatomy**
+- K Dyke       - **Brain stimulation & study design.**
+- L Cragg      - **Developmental neuroimaging.**
 
-- D Schluppeck | **Vision + brain imaging** [lecture materials](schluppeck-vision/lecture.md)
-- D Schluppeck | **Q&A, experimental design, coursework** [lecture materials](schluppeck-design-q+a/lecture.md)
+- D Schluppeck - **Vision + brain imaging** [lecture materials](schluppeck-vision/lecture.md)
+- D Schluppeck - **Q&A, experimental design, coursework** [lecture materials](schluppeck-design-q+a/lecture.md)
 
-- W v Heuven   | **Language**
-- J Derrfuss   | **Cognitive control, attention, and working memory.** 
-- R Filik      | **Moral Cognition**
+- W v Heuven   - **Language**
+- J Derrfuss   - **Cognitive control, attention, and working memory.** 
+- R Filik      - **Moral Cognition**
 
-- D Schluppeck | **Working with clinical population** Q&A [lecture materials](schluppeck-clinical/lecture.md)
+- D Schluppeck - **Working with clinical population** Q&A [lecture materials](schluppeck-clinical/lecture.md)
 
 
 
