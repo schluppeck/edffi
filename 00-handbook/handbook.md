@@ -13,17 +13,17 @@ Monday, 1600-1800h, room TBC
 
 | UoN week | date            |              | Lecture                                               |
 | -------- | --------------- | ------------ | ----------------------------------------------------- |
-| Week 03 | Mon 03 Oct 2022 | D Schluppeck | Overview, **fMRI & study design.**                    |
-| Week 04 | Mon 10 Oct 2022 |  | M Schürmann  | **Basic neuroanatomy**                                |
-| Week 05 | Mon 17 Oct 2022 | K Dyke       | **Brain stimulation & study design.**                 |
-| Week 06 | Mon 24 Oct 2022 | L Cragg      | **Developmental neuroimaging.**                       |
-| Week 07 | Mon 31 Oct 2022 | D Schluppeck | **Vision + brain imaging**                            |
-| Week 08 | Mon 07 Nov 2022 | D Schluppeck | **Q&A, experimental design, coursework**              |
-| Week 09 | Mon 14 Nov 2022 | W v Heuven   | **Language**                                          |
-| Week 10 | Mon 21 Nov 2022 |  J Derrfuss   | **Cognitive control, attention, and working memory.** |
-| Week 11 | Mon 28 Nov 2022 |  R Filik      | **Moral Cognition**                                   |
-| Week 12 | Mon 05 Dec 2022 |  D Schluppeck | **Working with clinical population** Q&A              |
-| Week 13 | Mon 12 Dec 2022 | TBD | TBD |
+| Week 03  | Mon 03 Oct 2022 | D Schluppeck | Overview, **fMRI & study design.**                    |
+| Week 04  | Mon 10 Oct 2022 | M Schürmann  | **Basic neuroanatomy**                                |
+| Week 05  | Mon 17 Oct 2022 | K Dyke       | **Brain stimulation & study design.**                 |
+| Week 06  | Mon 24 Oct 2022 | L Cragg      | **Developmental neuroimaging.**                       |
+| Week 07  | Mon 31 Oct 2022 | D Schluppeck | **Vision + brain imaging**                            |
+| Week 08  | Mon 07 Nov 2022 | D Schluppeck | **Q&A, experimental design, coursework**              |
+| Week 09  | Mon 14 Nov 2022 | W v Heuven   | **Language**                                          |
+| Week 10  | Mon 21 Nov 2022 | J Derrfuss   | **Cognitive control, attention, and working memory.** |
+| Week 11  | Mon 28 Nov 2022 | R Filik      | **Moral Cognition**                                   |
+| Week 12  | Mon 05 Dec 2022 | D Schluppeck | **Working with clinical population** Q&A              |
+| Week 13  | Mon 12 Dec 2022 | TBD          | TBD                                                   |
 
 ## Assessment
 
