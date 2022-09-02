@@ -10,6 +10,18 @@ The following is a quick overview of the kind of material you will learn about. 
 
 Monday, 1600-1800h, room TBC
 
+  |
+  |
+  |
+  |
+  |
+  |
+  |
+  |
+  |
+  |
+  |
+
 | UoN week | date            |              | Lecture                                               |
 | -------- | --------------- | ------------ | ----------------------------------------------------- |
 | Week 03  | Mon 10 Oct 2022 | D Schluppeck | Overview, **fMRI & study design.**                    |
