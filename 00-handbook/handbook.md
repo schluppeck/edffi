@@ -22,8 +22,7 @@ Monday, 1600-1800h, room TBC
 | Week 09  | Mon 14 Nov 2022 | W v Heuven   | **Language**                                          |
 | Week 10  | Mon 21 Nov 2022 | J Derrfuss   | **Cognitive control, attention, and working memory.** |
 | Week 11  | Mon 28 Nov 2022 | R Filik      | **Moral Cognition**                                   |
-| Week 12  | Mon 05 Dec 2022 | D Schluppeck | **Working with clinical population** Q&A              |
-| Week 13  | Mon 12 Dec 2022 | TBD          | TBD                                                   |
+| Week 12  | Mon 05 Dec 2022 | D Schluppeck | **Working with clinical populations**, Q&A for assignment             |
 
 ## Assessment
 
