@@ -6,9 +6,9 @@
 
 The following is a quick overview of the kind of material you will learn about. Note that some lectures may not take the full 2-hour slot.
 
-## Schedule (as of 2022-07-20, tbc)
+## Schedule 
 
-Monday, 1600-1800h, room TBC
+Please check for time / location via the [University of Nottingham timetable](https://timetabling.nottingham.ac.uk/2223/)
 
 
 | UoN week | date            |              | Lecture                                               |
