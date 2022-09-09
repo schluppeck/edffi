@@ -1,0 +1,59 @@
+---
+title: "PSGY4009"
+subtitle: "Experimental design for functional imaging"
+author: Denis Schluppeck
+date: 2022-09-09
+format:
+  revealjs: 
+    slide-number: true
+    chalkboard: 
+      buttons: true
+    preview-links: auto
+    logo: images/edffi-logo-small.png
+    css: styles.css
+    footer: <https://schluppeck.github.io/edffi>
+    theme: [custom]
+editor: visual
+
+---
+
+
+## Overview / Administrivia
+
+Welcome to the 
+
+## Bullets
+
+When you click the **Render** button a document will be generated that includes:
+
+-   Content authored with markdown
+-   Output from executable code
+
+B8  1Iil
+
+Qgefpq
+
+## Code
+
+When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
+
+## graphs
+
+- not any more.. but images, please
+
+## code examples
+
+```matlab
+tst = 1
+plot(tst)
+figure
+p = X\y
+```
+
+## Colophon
+
+This presentation was

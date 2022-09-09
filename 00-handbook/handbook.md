@@ -1,12 +1,13 @@
-<img src="imgs/scanner.png" height="384px">
 
 # Experimental Design for Functional Imaging - PSGY4009
 
-- Module convenor: <a href="mailto:denis.schluppeck@nottingham.ac.uk?subject=EDFFI-handbook">denis.schluppeck@nottingham.ac.uk</a>
+<img src="imgs/edffi-logo-big.png" width="30%">
+
+Module convenor: <a href="mailto:denis.schluppeck@nottingham.ac.uk?subject=EDFFI-handbook">denis.schluppeck@nottingham.ac.uk</a>
 
 The following is a quick overview of the kind of material you will learn about. Note that some lectures may not take the full 2-hour slot.
 
-## Schedule 
+## Schedule
 
 Please check for time / location via the [University of Nottingham timetable](https://timetabling.nottingham.ac.uk/2223/)
 

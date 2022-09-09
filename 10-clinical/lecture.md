@@ -1,1 +1,0 @@
-# fMRI with Clinical populations
