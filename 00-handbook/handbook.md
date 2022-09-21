@@ -11,23 +11,24 @@ The following is a quick overview of the kind of material you will learn about. 
 
 Please check for time / location via the [University of Nottingham timetable](https://timetabling.nottingham.ac.uk/2223/)
 
+*as of 2022-09-21, 1200h* - some of the lecture may change in order.
 
 | UoN week | date            |              | Lecture                                               |
 | -------- | --------------- | ------------ | ----------------------------------------------------- |
 | Week 03  | Mon 03 Oct 2022 | D Schluppeck | Overview, **fMRI & study design.**                    |
 | Week 04  | Mon 10 Oct 2022 | M Schürmann  | **Basic neuroanatomy**                                |
 | Week 05  | Mon 17 Oct 2022 | K Dyke       | **Brain stimulation & study design.**                 |
-| Week 06  | Mon 24 Oct 2022 | L Cragg      | **Developmental neuroimaging.**                       |
+| Week 06  | Mon 24 Oct 2022 | W v Heuven   | **Language**                                          |
 | Week 07  | Mon 31 Oct 2022 | D Schluppeck | **Vision + brain imaging**                            |
 | Week 08  | Mon 07 Nov 2022 | D Schluppeck | **Q&A, experimental design, coursework**              |
-| Week 09  | Mon 14 Nov 2022 | W v Heuven   | **Language**                                          |
+| Week 09  | Mon 14 Nov 2022 | L Cragg      | **Developmental neuroimaging.**                       | 
 | Week 10  | Mon 21 Nov 2022 | J Derrfuss   | **Cognitive control, attention, and working memory.** |
 | Week 11  | Mon 28 Nov 2022 | R Filik      | **Moral Cognition**                                   |
 | Week 12  | Mon 05 Dec 2022 | D Schluppeck | **Working with clinical populations**, Q&A for assignment             |
 
 ## Assessment
 
-Written assignment (max 2500 words) including a 250 word abstract
+Written assignment (max 3000 words) including a 250 word abstract. For details and the ubmission link, please see [the moodle page](https://moodle.nottingham.ac.uk/course/view.php?id=128949)
 
 ## Learning outcomes [MSc in general + this module] 
 
