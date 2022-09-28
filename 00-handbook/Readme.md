@@ -11,12 +11,12 @@ The following is a quick overview of the kind of material you will learn about. 
 
 Please check for time / location via the [University of Nottingham timetable](https://timetabling.nottingham.ac.uk/2223/)
 
-*as of 2022-09-21, 1900h* - some of the lecture may change in order.
+*as of 2022-09-28* - some of the lectures may change in order.
 
 | UoN week | date            |              | Lecture                                               |
 | -------- | --------------- | ------------ | ----------------------------------------------------- |
 | Week 03  | Mon 03 Oct 2022 | D Schluppeck | Overview, **fMRI & study design.**                    |
-| Week 04  | <span style="color:red;font-weight:bold;">10am, Wed 05 Oct 2022</span> | M Schürmann  | **Basic neuroanatomy**  (swap w/ PSGY4020, methods lecture)     |
+| Week 04  | Mon 10 Oct 2022 | M Schürmann  | **Basic neuroanatomy**                                |
 | Week 05  | Mon 17 Oct 2022 | K Dyke       | **Brain stimulation & study design.**                 |
 | Week 06  | Mon 24 Oct 2022 | W v Heuven   | **Language**                                          |
 | Week 07  | Mon 31 Oct 2022 | D Schluppeck | **Vision + brain imaging**                            |
