@@ -16,7 +16,7 @@ This module introduces important principles of experimental design and how they 
 
 ## Module handbook
 
-Check out the [handbook](00-handbook/handbook.md) for details, the timetable, info on assessment.
+Check out the [handbook](00-handbook/Readme.md) for details, the timetable, info on assessment.
 
 ## Some of the lecture materials
 
