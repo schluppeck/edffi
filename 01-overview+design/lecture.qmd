@@ -6,54 +6,452 @@ date: 2022-09-09
 format:
   revealjs: 
     slide-number: true
-    chalkboard: 
-      buttons: true
+    #chalkboard: 
+    #  buttons: true
     preview-links: auto
     logo: images/edffi-logo-small.png
     css: styles.css
     footer: <https://schluppeck.github.io/edffi>
     theme: [custom]
+    self-contained: true
+    scrollable: true
+  pdf: 
+    output-file: "schluppeck-01-handout.pdf"
+    mainfont: "Atkinson Hyperlegible"
+  html:
+    css: styles.css
+    mainfont: "Atkinson Hyperlegible"
+    output-file: "schluppeck-01-handout.html"
+    number-sections: true
+    self-contained: true
+    number-sections: true
+    toc: true
 editor: visual
-
 ---
 
+## Today
 
-## Overview / Administrivia
+::: incremental
+-   Who am I? Who is everyone?
+-   A quick overview of the module.
+-   What to expect, assessment/coursework?
+-   101 of functional MRI and experiment design.
+:::
 
-Welcome to the 
+## Overview
 
-## Bullets
+Check via the [University of Nottingham timetable](https://timetabling.nottingham.ac.uk/2223/)
 
-When you click the **Render** button a document will be generated that includes:
+::: r-fit-text
+| week |            | Lecture                                               |
+|------|------------|-------------------------------------------------------|
+| 03   | Schluppeck | Overview, **fMRI & study design.**                    |
+| 04   | Schürmann  | **Basic neuroanatomy.**                               |
+| 05   | Dyke       | **Brain stimulation & study design.**                 |
+| 06   | Cragg      | **Developmental neuroimaging.**                       |
+| 07   | Schluppeck | **Vision + brain imaging.**                           |
+| 08   | Schluppeck | **Q&A, experimental design, coursework.**             |
+| 09   | v Heuven   | **Language.**                                         |
+| 10   | Derrfuss   | **Cognitive control, attention, and working memory.** |
+| 11   | Filik      | **Moral Cognition.**                                  |
+| 12   | Schluppeck | **Perceptual decision making.** Q&A.                  |
+:::
 
--   Content authored with markdown
--   Output from executable code
+## Assessment
 
-B8  1Iil
+-   Written assignment (max 3000 words) including a 250 word abstract.
 
-Qgefpq
+-   Details on [moodle (2022/23)](https://moodle.nottingham.ac.uk/course/view.php?id=128949#section-11).
 
-## Code
+. . .
 
-When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
+### What? How?
 
-```{r}
-1 + 1
-```
+> How can fMRI and/or brain stimulation be used to study different neuroscience questions? Cover at least two topics and/or methods from the course.
 
-## graphs
+## Today's lecture
 
-- not any more.. but images, please
+::: incremental
+-   A brief introduction to fMRI.
 
-## code examples
+-   Scope and limitations of the fMRI method.
 
-```matlab
-tst = 1
-plot(tst)
-figure
-p = X\y
-```
+-   Principles of experimental design in psychology.
 
-## Colophon
+-   Experimental design for fMRI.
+:::
 
-This presentation was
+## Learning objectives
+
+::: columns
+::: {.column .fragment width="60%"}
+By the end of the lecture you should be able to:
+
+-   Understand what fMRI measures.
+-   Evaluate the strengths and weaknesses of fMRI.
+-   Evaluate different experimental designs.
+:::
+
+::: {.column .fragment width="40%"}
+![image of statistical maps on brains](images/blobs-on-brains.png)
+:::
+:::
+
+## LO {background="images/20307dtp.jpg" data-background-opacity="1.0"}
+
+::: {.r-fit-text style="color: white; -webkit-text-stroke: 2px; -webkit-text-fill-color: black;"}
+fMRI basics
+:::
+
+## fMRI basics {background="images/20307dtp.jpg" data-background-opacity="0.3"}
+
+::: incremental
+-   MRI uses **static** and **oscillating** electromagnetic fields to detect different biological tissue properties.
+
+-   **functional MRI** measures changes in blood oxygenation over time.
+
+-   BOLD signal: [blood oxygen level dependent]{style="fontweight: bold; color: red;"}
+:::
+
+## Example research questions
+
+::: columns
+::: {.column .fragment width="45%"}
+![](images/approach-finding-areas.png){width="100%"} **Where** are the areas more active in **Condition A** than in **Condition B**?
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column .fragment width="45%"}
+![](images/approach-using-rois.svg){width="100%"} How do pre-defined **regions of interest** respond in different experimental conditions?
+:::
+:::
+
+## Experimental "pipeline"
+
+::: {.r-fit-text .fade-semi-out .fragment}
+**Prepare**
+
+Theory ➡️ Research Question ➡️ Hypothesis
+:::
+
+::: {.r-fit-text .fade-in-then-semi-out .fragment}
+**Plan & do**
+
+Experimental Design ➡️ Piloting ➡️ Data collection
+:::
+
+::: {.r-fit-text .fade-in-then-semi-out .fragment}
+**Analyse & report**
+
+Preprocessing ➡️ Analysis ➡️ Interpretation
+:::
+
+::: notes
+General overview of how imaging experiments often work / get designed.
+:::
+
+## Study {background="images/fMRI-Fig-08-01-0.jpg" data-background-opacity="1.0" background-size="contain"}
+
+## General thoughts (BOLD)
+
+What does the blood-oxygen-level-dependent (BOLD) signal measure?
+
+::: fragment
+-   neuronal activity?!
+-   populations of neurons (excitatory, inhibitory)
+-   spikes or (pre-)synaptic activity
+:::
+
+## General thoughts (Signal/Noise)
+
+(fMRI) signals are weak + noisy.
+
+::: fragment
+-   How does that limit voxel size?
+-   Short events, minimum durations?
+-   Need for averaging?
+-   Blocks versus "event-related" designs?
+:::
+
+## General thoughts (Variability)
+
+Details of brain anatomy vary across individuals.
+
+::: fragment
+-   What does this mean for group studies?
+-   Individual subjects results first?
+-   Data in 3d or 2d (cortical surface?)
+:::
+
+## Example data / images
+
+::: columns
+::: {.column .fragment width="45%"}
+![Anatomical image (T1w)](images/anatomical-image.png){fig-alt="anatomy" fig-align="left" width="80%"}
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column .fragment width="45%"}
+![Functional image (T2\*, EPI)](images/functional-image.png){fig-alt="fMRI image" fig-align="left" width="80%"}
+:::
+:::
+
+## fMRI measures changes over time
+
+![](images/timecourse.png)
+
+## Example: visual cortex
+
+![anatomical image with position of fMRI slice](images/dsBrain.png){height="400px"}
+
+## Example: visual cortex (movie)
+
+![one slice over 160 repeated measurements (every 1.5s)](images/test-2.gif){height="400px"}
+
+
+## fMRI measures changes over time
+
+![](images/timecourse.png)
+
+## "There is no free lunch"
+
+::: incremental
+-   both, *spatial resolution* and  *temporal resolution*, are limited
+-   often, experimenter has to trade off one against the other
+-   so, different choices for different applications...
+:::
+
+## Why do we need high spatial resolution?
+
+::: incremental
+-   brain structures of interest are \~mm in size, sometimes separated by \~cm; need appropriate sampling
+
+-   smaller voxels: less mixing of grey matter, white matter, CSF, veins, ... reduced partial voluming
+:::
+
+## Appropriate sampling
+
+![Table of structures / sizes](images/table-structures.jpg)
+
+## Volume → no. of cells
+
+... if packing density in grey matter of cortex is \~50,000 cells / mm$^3$
+
+::: fragment
+| edge (mm) | volume (mm$^3$) | #cells in pure GM |
+|-----------|-----------------|-------------------|
+| 1         | 1               | 50k               |
+| 3         | 27              | 1.35M             |
+| 5         | 125             | 6.25M             |
+:::
+
+## PVE {background="images/spatial-resolution-images.png" background-size="contain"}
+
+## Partial volume effects
+
+![A typical 3mm voxel contains a mixture of tissues](images/partial-voluming.png)
+
+## What limits (spatial) resolution
+
+::: fragment
+**hardware** (the scanner)
+:::
+
+::: fragment
+**the subjects**
+
+-   peripheral nerve stimulation PNS
+-   specific absorption rate SAR limits
+-   time in scanner ( \>1.5h is not fun)
+:::
+
+::: fragment
+**signal-to-noise ratio** - smaller voxels = proportionally more noise head motion, physiology, ...
+:::
+
+## fMRI measures changes over time
+
+![](images/timecourse.png)
+
+## What limits (temporal) resolution
+
+::: callout-important
+## physiology
+
+basis of the blood-oxygen-level-dependent (BOLD) signal
+:::
+
+-   BOLD is **haemodynamic**, an indirect measure of neural activity (+ still hotly debated)
+-   BOLD signal is **delayed and blurred** in space, but also in time
+
+## Haemodynamic response
+
+the shape of the response to a brief event  is called the haemodynamic response function (HRF)
+
+![haemodynamic response](images/hrf-image.png){.r-stretch}
+
+e.g. haemodynamic response to a 1s visual stimulus peaks several seconds later and is spread out
+
+## Intermediate summary
+
+-   Overview of the fMRI method.
+
+-   How to interpret fMRI data.
+
+-   Limiting factors of fMRI.
+
+-   Trade-off between temporal and spatial resolution.
+
+::: fragment
+Thinking about **temporal resolution** particularly important when designing fMRI experiments
+:::
+
+## Some principles of experimental design
+
+>Why do we need to worry about designing experiments?
+
+
+::: notes
+break
+:::
+
+## Terminology
+
+Independent Variable:
+
+:   variable which is intentionally manipulated (different manipulations are called conditions / levels)
+
+Dependent Variable:
+
+:   measured variable
+
+Confound:
+
+:   a property that co-varies with the IV
+
+## eg. this experiment
+
+![](images/fvh.jpg){height="100px"}
+
+::: fragment
+![](images/faces-color.png){width="700px"}
+
+![](images/houses-bw.png){width="700px"}
+:::
+
+## Dealing with confounds
+
+::: fragment
+**Counterbalancing:** a process for removing confounds by ensuring they have equal influence at each level of the IV
+:::
+
+::: fragment
+**Randomization:** removing confounds by making sure they vary randomly at each level of the IV
+:::
+
+## Within or between subjects? {.smaller}
+
+::: fragment
+**Within-subjects designs are stronger as they control for:**
+
+-   Age Gender.
+-   Experience.
+-   Individual Difference.
+-   Brain size / shape.
+:::
+
+::: fragment
+**Between-subjects designs are sometime unavoidable**a
+
+-   Diagnostic comparisons
+-   Gender effects
+
+Match the design to the research question...
+:::
+
+## ... and for fMRI?
+
+All the above, plus...
+
+::: fragment
+-   Selecting an appropriate IV
+-   Selecting an appropriate control condition
+-   Types of experimental design
+-   Stimulus presentation timing
+:::
+
+## Many studies: cognitive subtraction
+
+Compare two very similar conditions that are assumed to differ only in one property.
+
+![](images/approach-finding-areas.png)
+
+## Control conditions are important
+
+![](images/control-condition.png){height="600px"}
+
+## fMRI designs
+
+-   Block Designs -- trials appear in alternating blocks (Task A, Task B)
+
+-   Event Related Designs -- stimuli are presented one-at-a-time in a random order
+
+-   Mixed Designs -- alternating blocks of tasks but with mixed trials
+
+-   (resting state fMRI) - no task
+
+## Block designs
+
+![](images/timecourse.png){height="200px"}
+
+-   Powerful for detecting signal changes if a good control is selected.
+
+-   Not very good for estimating the shape of the HRF.
+
+-   Sensitive to noise (scanner drift)
+
+-   The block length is very important to consider
+
+## Event-related designs
+
+come in two "flavours"
+
+-   Slow -- stimulus followed by long inter-trial intervals (eg 10-15s rest)
+
+-   Fast/Rapid variable -- rapid stimulus presentation with variable, but short ISI (2s)
+
+## . {background="images/F1.large.jpg" background-size="contain"}
+
+## TP {background="images/temporal-precision.png" background-size="contain"}
+
+<!--# Khalife et al (2022) eNeuro paper  !-->
+## Summary
+
+Principles of experimental psychology apply to good fMRI study design also.
+
+::: incremental
+-   Consider how the hypotheses make predictions about space and time (and do they align with the scope of what fMRI can measure).
+
+-   The experimental design should be appropriate for the research question.
+
+-   Timing of stimulus presentation is key!
+:::
+
+## Thanks
+
+::: .r-fit-text
+
+See you soon!
+
+:::
+
+
+## Colophon {.smaller}
+
+-   This presentation was made with `quarto` and `revealjs`.
+
+-   Uses a font called `Atkinson Hyerlegible`, which was designed to work better for people with low vision: available via [google fonts](https://fonts.google.com/specimen/Atkinson+Hyperlegible).
