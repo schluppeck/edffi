@@ -20,7 +20,7 @@ Check out the [handbook](00-handbook/Readme.md) for details, the timetable, info
 
 ## Some of the lecture materials
 
-- D Schluppeck - Overview, **fMRI & study design.** [lecture materials](01-overview+design/lecture.html)
+- D Schluppeck - Overview, **fMRI & study design.** [lecture materials](01-overview+design/)
 - M Schürmann  - **Basic neuroanatomy** (moodle)
 - K Dyke       - **Brain stimulation & study design.** (moodle)
 - L Cragg      - **Developmental neuroimaging.** (moodle)
