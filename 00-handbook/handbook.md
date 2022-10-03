@@ -23,11 +23,20 @@ Please check for time / location via the [University of Nottingham timetable](ht
 | Week 09  | Mon 14 Nov 2022 | W v Heuven   | **Language**                                          |
 | Week 10  | Mon 21 Nov 2022 | J Derrfuss   | **Cognitive control, attention, and working memory.** |
 | Week 11  | Mon 28 Nov 2022 | R Filik      | **Moral Cognition**                                   |
-| Week 12  | Mon 05 Dec 2022 | D Schluppeck | **Working with clinical populations**, Q&A for assignment             |
+| Week 12  | Mon 05 Dec 2022 | D Schluppeck | **Perceptual decision making**, Q&A for assignment             |
 
 ## Assessment
 
-Written assignment (max 2500 words) including a 250 word abstract
+- Written assignment (max 3000 words) including a 250 word abstract
+
+- Details on [moodle (2022/23)](https://moodle.nottingham.ac.uk/course/view.php?id=128949#section-11)
+
+. . .
+
+### What? How?
+
+>How can fMRI and/or brain stimulation be used to study neuroscience questions? Cover at least two topics and/or methods from the course.
+
 
 ## Learning outcomes [MSc in general + this module] 
 
