@@ -18,6 +18,10 @@ This module introduces important principles of experimental design and how they 
 
 Check out the [handbook](00-handbook/Readme.md) for details, the timetable, info on assessment.
 
+## Moodle page (2022)
+
+Link back to the [moodle page](https://moodle.nottingham.ac.uk/course/view.php?id=128949).
+
 ## Some of the lecture materials
 
 - D Schluppeck - Overview, **fMRI & study design.** [lecture materials](01-overview+design/)
