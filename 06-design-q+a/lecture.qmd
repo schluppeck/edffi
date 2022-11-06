@@ -1,0 +1,115 @@
+---
+title: "PSGY4009"
+subtitle: "Q+A about assessment, the GLM in more detail"
+author: Denis Schluppeck
+date: 2022-11-07
+format:
+  revealjs: 
+    slide-number: true
+    #chalkboard: 
+    #  buttons: true
+    preview-links: auto
+    logo: images/edffi-logo-small.png
+    css: styles.css
+    footer: <https://schluppeck.github.io/edffi>
+    theme: [custom]
+    self-contained: true
+    scrollable: true
+  pdf: 
+    output-file: "schluppeck-06-handout.pdf"
+    mainfont: "Atkinson Hyperlegible"
+  html:
+    css: styles.css
+    mainfont: "Atkinson Hyperlegible"
+    output-file: "schluppeck-06-handout.html"
+    number-sections: true
+    self-contained: true
+    number-sections: true
+    toc: true
+editor: visual
+---
+
+## Today
+
+::: {.fragment}
+### Assessment 
+- A bit more detail on the written assessment
+- General advice on writing, structure
+:::
+
+::: {.fragment}
+###  The General Linear Model (GLM) {.fragment}
+- intuition / non-mathematical explanation
+- some of the nitty-gritty (in `matlab`)
+- demo in `fsl`
+:::
+
+
+## Learning objectives
+
+By the end of the lecture you should:
+
+- know what's expected in coursework
+- have all the information to get started on assessment
+- understand the GLM in principle 
+- appreciate some of the technical details of GLM analysis
+
+## Assessment
+
+-   Written assignment (max 3000 words) including a 250 word abstract.
+
+-   Details on [moodle (2022/23)](https://moodle.nottingham.ac.uk/course/view.php?id=128949#section-11).
+
+>The written assignment for this module is an essay about how functional magnetic resonance imaging and/or brain stimulation can be used to study different neuroscience questions. It must cover at least two topics and/or methods from the course.
+
+
+## Not just a literature review
+
+>One aim of the assignment is to make you think about the methodological choices the experimenters have to make. After a brief summary of the state of the literature in your area, there should be therefore be a component that talks about how you might extend some previous findings.
+
+## On moodle:
+
+There are some suggestions for how you can tackle each section in turn
+
+**overall word limit, 3000w - stick to this limit**)
+
+- Abstract (maximum 250 words. **stick to this limit**)
+- Introduction (suggested ~500-750 words)
+- Proposed experiment + methods (suggested ~500-1000 words)
+- Expected results (suggested ~250 words)
+- Conclusion / Discussion (suggested ~500-1000 words)
+- References / Citations (no word limit)
+
+
+## Clear writing
+
+::: {.fragment}
+### Content
+The **content** of your coursework is (obviously) important
+- topic choice
+- methodological details included
+- facts correct?
+:::
+
+::: {.fragment}
+### ... but writing!
+- clear, concise, economic
+- line of argument?
+- structure easy to follow
+- ...
+:::
+
+## Strunk & White - *Elements of Style*
+
+
+## Thanks
+
+::: r-fit-text
+See you soon!
+:::
+
+## Colophon {.smaller}
+
+-   This presentation was made with `quarto` and `revealjs`.
+
+-   Uses a font called `Atkinson Hyerlegible`, which was designed to work better for people with low vision: available via [google fonts](https://fonts.google.com/specimen/Atkinson+Hyperlegible).

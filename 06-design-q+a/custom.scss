@@ -1,0 +1,11 @@
+/*-- scss:defaults --*/
+
+// this file needs (?) to go into the place where revealjs looks for scss files;
+// in my macos install this is:
+// /Applications/quarto/share/formats/revealjs/themes/custom.scss
+    
+// get the Hyperlegible font
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&display=swap');
+
+// make this the default font throughout the revealjs presentation
+$font-family-sans-serif: 'Atkinson Hyperlegible', sans-serif;
