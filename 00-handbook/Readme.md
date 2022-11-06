@@ -18,13 +18,22 @@ Please check for time / location via the [University of Nottingham timetable](ht
 | Week 03  | Mon 03 Oct 2022 | D Schluppeck | Overview, **fMRI & study design.**                    |
 | Week 04  | Mon 10 Oct 2022 | M Schürmann  | **Basic neuroanatomy**                                |
 | Week 05  | Mon 17 Oct 2022 | K Dyke       | **Brain stimulation & study design.**                 |
-| Week 06  | Mon 24 Oct 2022 | W v Heuven   | **Language**                                          |
+| ~~Week 06~~  | ~~Mon 24 Oct 2022~~ | ~~W v Heuven~~   | ~~**Language**~~                                          |
 | Week 07  | Mon 31 Oct 2022 | D Schluppeck | **Vision + brain imaging**                            |
 | Week 08  | Mon 07 Nov 2022 | D Schluppeck | **Q&A, experimental design, coursework**              |
 | Week 09  | Mon 14 Nov 2022 | L Cragg      | **Developmental neuroimaging.**                       | 
 | Week 10  | Mon 21 Nov 2022 | J Derrfuss   | **Cognitive control, attention, and working memory.** |
-| Week 11  | Mon 28 Nov 2022 | R Filik      | **Moral Cognition**                                   |
+| Week 11+  | Mon 28 Nov 2022, 2-4pm | W v Heuven   | **Language** (re-run)                                          |
+| Week 11  | Mon 28 Nov 2022, 4-6pm | R Filik      | **Moral Cognition**                                   |
 | Week 12  | Mon 05 Dec 2022 | D Schluppeck | **Working with clinical populations**, Q&A for assignment             |
+
+
+
+LANGUAGE LECTURE (MSC COG NEURO) WALTER V HEUVEN
+
+This booking is accepted
+Monday November 28th 2022
+14:00 - 16:00
 
 ## Assessment
 

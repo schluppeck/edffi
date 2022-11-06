@@ -28,7 +28,7 @@ Link back to the [moodle page](https://moodle.nottingham.ac.uk/course/view.php?i
 - M Schürmann  - **Basic neuroanatomy** (moodle)
 - K Dyke       - **Brain stimulation & study design.** (moodle)
 - L Cragg      - **Developmental neuroimaging.** (moodle)
-- D Schluppeck - **Vision + brain imaging** [lecture materials](05-vision+brain/lecture.md)
+- D Schluppeck - **Vision + brain imaging** (moodle)
 - D Schluppeck - **Q&A, experimental design, coursework** [lecture materials](06-design-q+a/lecture.md)
 - W v Heuven   - **Language** (moodle)
 - J Derrfuss   - **Cognitive control, attention, and working memory.** (moodle)
