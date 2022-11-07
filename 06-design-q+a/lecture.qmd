@@ -32,18 +32,22 @@ editor: visual
 ## Today
 
 ::: {.fragment}
-### Assessment 
+**Assessment**
+
 - A bit more detail on the written assessment
 - General advice on writing, structure
+
 :::
 
 ::: {.fragment}
-###  The General Linear Model (GLM) {.fragment}
+
+**The General Linear Model (GLM)**
+
 - intuition / non-mathematical explanation
 - some of the nitty-gritty (in `matlab`)
 - demo in `fsl`
-:::
 
+:::
 
 ## Learning objectives
 
@@ -67,7 +71,7 @@ By the end of the lecture you should:
 
 >One aim of the assignment is to make you think about the methodological choices the experimenters have to make. After a brief summary of the state of the literature in your area, there should be therefore be a component that talks about how you might extend some previous findings.
 
-## On moodle:
+## On moodle {.smaller}
 
 There are some suggestions for how you can tackle each section in turn
 
@@ -84,27 +88,77 @@ There are some suggestions for how you can tackle each section in turn
 ## Clear writing
 
 ::: {.fragment}
-### Content
+
+**Content**
+
 The **content** of your coursework is (obviously) important
 - topic choice
 - methodological details included
 - facts correct?
+
 :::
 
 ::: {.fragment}
-### ... but writing!
+
+**... but writing!**
+
 - clear, concise, economic
 - line of argument?
 - structure easy to follow
 - ...
+
 :::
 
 ## Strunk & White - *Elements of Style*
 
+If you haven't read this little book (26 pages), take the time!
 
-## Thanks
+[free online PDF of the book](https://faculty.washington.edu/heagerty/Courses/b572/public/StrunkWhite.pdf)
+
+## The GLM - a quick walk-through
+
+### Some notes for my demo
+
+```bash
+cd ~/projects/hands-on-brain-data
+julia
+# using Pluto
+# Pluto.run()
+# "what_is_linearReg.jl"
+```
+
+## in `matlab`
+
+### Some notes for my demo
+
+```matlab
+cd ~/projects/hands-on-brain-data
+cd data
+X = load('design-3.txt')
+y = load('timecourse.txt')
+X\y
+% regress(), pinv()
+```
+
+## in `fsl`
+
+```bash
+cd ~/projects/hands-on-brain-data
+cd data
+fsleyes filtered_func_data
+fsl &
+# simple block design ... stats: 6, (12, 12, 12)
+```
+
+## in `fsl`/`fsleyes`
+
+![](images/fsleyes_grab.png)
+
+## 
 
 ::: r-fit-text
+Hope you found this helpful.
+
 See you soon!
 :::
 
