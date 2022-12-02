@@ -33,7 +33,7 @@ Link back to the [moodle page](https://moodle.nottingham.ac.uk/course/view.php?i
 - W v Heuven   - **Language** (moodle)
 - J Derrfuss   - **Cognitive control, attention, and working memory.** (moodle)
 - R Filik      - **Moral Cognition** (moodle)
-- D Schluppeck - **Perceptual decision making** Q&A [lecture materials](10-decision-making/lecture.md)
+- D Schluppeck - **Perceptual decision making**, Q&A (moodle)
 
 
 

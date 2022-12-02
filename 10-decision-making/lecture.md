@@ -2,4 +2,4 @@
 
 - Cognitive neuroscience and fMRI
 
-Lecture materials will go here.
+Lecture materials are on the Moodle module page.
