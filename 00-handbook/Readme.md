@@ -25,15 +25,9 @@ Please check for time / location via the [University of Nottingham timetable](ht
 | Week 10  | Mon 21 Nov 2022 | J Derrfuss   | **Cognitive control, attention, and working memory.** |
 | Week 11+  | Mon 28 Nov 2022, 2-4pm | W v Heuven   | **Language** (re-run)                                          |
 | Week 11  | Mon 28 Nov 2022, 4-6pm | R Filik      | **Moral Cognition**                                   |
-| Week 12  | Mon 05 Dec 2022 | D Schluppeck | **Working with clinical populations**, Q&A for assignment             |
+| Week 12  | Mon 05 Dec 2022 | D Schluppeck | **Perceptual Decision making**, Q&A for assignment             |
 
 
-
-LANGUAGE LECTURE (MSC COG NEURO) WALTER V HEUVEN
-
-This booking is accepted
-Monday November 28th 2022
-14:00 - 16:00
 
 ## Assessment
 
