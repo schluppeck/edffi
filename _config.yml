@@ -1,4 +1,4 @@
-theme: jekyll-theme-primer
+theme: jekyll-text-theme  #jekyll-theme-primer
 plugins:
   - jemoji
   
