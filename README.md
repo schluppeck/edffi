@@ -2,7 +2,7 @@
 
 Some materials for *Experimental Design for Functional Imaging*, which is a core module for the [MSc Cognitive Neuroscience](https://www.nottingham.ac.uk/pgstudy/course/taught/cognitive-neuroscience-msc?gclid=CjwKCAjwwo-WBhAMEiwAV4dybRN24hVkXjQx91s85x1KVSwTjH49QbX7YhlWi6UGAriHHpK1pWMkERoCuoAQAvD_BwE) at the [University of Nottingham](https://www.nottingham.ac.uk/psychology/)
 
-2022, denis schluppeck
+2023, denis schluppeck
 
 
 ## Target students
@@ -18,9 +18,9 @@ This module introduces important principles of experimental design and how they 
 
 Check out the [handbook](00-handbook/Readme.md) for details, the timetable, info on assessment.
 
-## Moodle page (2022)
+## Moodle page (2023)
 
-Link back to the [moodle page](https://moodle.nottingham.ac.uk/course/view.php?id=128949).
+Link back to the [moodle page](https://moodle.nottingham.ac.uk/course/view.php?id=137636).
 
 ## Some of the lecture materials
 

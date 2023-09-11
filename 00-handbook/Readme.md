@@ -9,23 +9,27 @@ The following is a quick overview of the kind of material you will learn about. 
 
 ## Schedule
 
-Please check for time / location via the [University of Nottingham timetable](https://timetabling.nottingham.ac.uk/2223/)
 
-*as of 2022-09-28* - some of the lectures may change in order.
+**Where** UP Pope A24 - [on map](https://goo.gl/maps/BUB2jYiznrWtvVMY9)
 
-| UoN week | date            |              | Lecture                                               |
+**When**  11am-1pm Wednesdays in Autumn Term.
+
+You can also check time / location via the [University of Nottingham timetable](https://timetabling.nottingham.ac.uk/2324/)
+
+*as of 2023-09-11* - some of the lectures may change in order.
+
+| Timetable week | date            |              | Lecture                                               |
 | -------- | --------------- | ------------ | ----------------------------------------------------- |
-| Week 03  | Mon 03 Oct 2022 | D Schluppeck | Overview, **fMRI & study design.**                    |
-| Week 04  | Mon 10 Oct 2022 | M Schürmann  | **Basic neuroanatomy**                                |
-| Week 05  | Mon 17 Oct 2022 | K Dyke       | **Brain stimulation & study design.**                 |
-| ~~Week 06~~  | ~~Mon 24 Oct 2022~~ | ~~W v Heuven~~   | ~~**Language**~~                                          |
-| Week 07  | Mon 31 Oct 2022 | D Schluppeck | **Vision + brain imaging**                            |
-| Week 08  | Mon 07 Nov 2022 | D Schluppeck | **Q&A, experimental design, coursework**              |
-| Week 09  | Mon 14 Nov 2022 | L Cragg      | **Developmental neuroimaging.**                       | 
-| Week 10  | Mon 21 Nov 2022 | J Derrfuss   | **Cognitive control, attention, and working memory.** |
-| Week 11+  | Mon 28 Nov 2022, 2-4pm | W v Heuven   | **Language** (re-run)                                          |
-| Week 11  | Mon 28 Nov 2022, 4-6pm | R Filik      | **Moral Cognition**                                   |
-| Week 12  | Mon 05 Dec 2022 | D Schluppeck | **Perceptual Decision making**, Q&A for assignment             |
+| Week 02 | Wed 04 Oct 2023 |  D Schluppeck | Overview, **fMRI & study design.**                    |
+| Week 03 | Wed 11 Oct 2023 |  M Schürmann  | **Basic neuroanatomy**                                |
+| Week 04 | Wed 18 Oct 2023 |  K Dyke       | **Brain stimulation & study design.**                 |
+| Week 05 | Wed 25 Oct 2023 |  W v Heuven   | **Language**                                          |
+| Week 06 | Wed 01 Nov 2023 |  D Schluppeck | **Vision + brain imaging**                            |
+| Week 07 | Wed 08 Nov 2023 |  D Schluppeck | **Q&A, experimental design, coursework**              |
+| Week 08 | Wed 15 Nov 2023 |  L Cragg      | **Developmental neuroimaging.**                       | 
+| Week 09 | Wed 22 Nov 2023 |  J Derrfuss   | **Cognitive control, attention, and working memory.** |
+| Week 10 | Wed 29 Nov 2023 |  R Filik      | **Moral Cognition**                                   |
+| Week 11 | Wed 06 Dec 2023 |  D Schluppeck | **Perceptual Decision making**, Q&A for assignment    |
 
 
 
