@@ -18,18 +18,18 @@ You can also check time / location via the [University of Nottingham timetable](
 
 *as of 2023-09-11* - some of the lectures may change in order.
 
-| Timetable week | date            |              | Lecture                                               |
-| -------- | --------------- | ------------ | ----------------------------------------------------- |
-| Week 02 | Wed 04 Oct 2023 |  D Schluppeck | Overview, **fMRI & study design.**                    |
-| Week 03 | Wed 11 Oct 2023 |  M Schürmann  | **Basic neuroanatomy**                                |
-| Week 04 | Wed 18 Oct 2023 |  K Dyke       | **Brain stimulation & study design.**                 |
-| Week 05 | Wed 25 Oct 2023 |  W v Heuven   | **Language**                                          |
-| Week 06 | Wed 01 Nov 2023 |  D Schluppeck | **Vision + brain imaging**                            |
-| Week 07 | Wed 08 Nov 2023 |  D Schluppeck | **Q&A, experimental design, coursework**              |
-| Week 08 | Wed 15 Nov 2023 |  L Cragg      | **Developmental neuroimaging.**                       | 
-| Week 09 | Wed 22 Nov 2023 |  J Derrfuss   | **Cognitive control, attention, and working memory.** |
-| Week 10 | Wed 29 Nov 2023 |  R Filik      | **Moral Cognition**                                   |
-| Week 11 | Wed 06 Dec 2023 |  D Schluppeck | **Perceptual Decision making**, Q&A for assignment    |
+| Timetable week | Date |  Lecturer  | Lecture                                               |
+|:--------|:---------------|:------------ |:----------------------------------------------------- |
+| 02 | Wed 04 Oct 2023 |  D Schluppeck | Overview, **fMRI & study design.**                    |
+| 03 | Wed 11 Oct 2023 |  M Schürmann  | **Basic neuroanatomy**                                |
+| 04 | Wed 18 Oct 2023 |  K Dyke       | **Brain stimulation & study design.**                 |
+| 05 | Wed 25 Oct 2023 |  W v Heuven   | **Language**                                          |
+| 06 | Wed 01 Nov 2023 |  D Schluppeck | **Vision + brain imaging**                            |
+| 07 | Wed 08 Nov 2023 |  D Schluppeck | **Q&A, experimental design, coursework**              |
+| 08 | Wed 15 Nov 2023 |  L Cragg      | **Developmental neuroimaging.**                       | 
+| 09 | Wed 22 Nov 2023 |  J Derrfuss   | **Cognitive control, attention, and working memory.** |
+| 10 | Wed 29 Nov 2023 |  R Filik      | **Moral Cognition**                                   |
+| 11 | Wed 06 Dec 2023 |  D Schluppeck | **Perceptual Decision making**, Q&A for assignment    |
 
 
 
