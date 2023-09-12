@@ -1,5 +1,5 @@
-#theme: jekyll-theme-primer
-remote_theme: abhinavs/moonwalk #moonwalk  
+theme: jekyll-theme-primer
+#remote_theme: abhinavs/moonwalk #moonwalk  
 plugins:
   - jemoji
   
