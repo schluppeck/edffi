@@ -1,4 +1,5 @@
-theme: moonwalk  #jekyll-theme-primer
+#theme: jekyll-theme-primer
+remote_theme: moonwalk  
 plugins:
   - jemoji
   
