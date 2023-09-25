@@ -35,7 +35,7 @@ You can also check time / location via the [University of Nottingham timetable](
 
 ## Assessment
 
-Written assignment (max 3000 words) including a 250 word abstract. For details and the ubmission link, please see [the moodle page](https://moodle.nottingham.ac.uk/course/view.php?id=128949)
+Written assignment (max 3000 words) including a 250 word abstract. For details and the submission link, please see [the moodle page](https://moodle.nottingham.ac.uk/course/view.php?id=137636)
 
 ## Learning outcomes [MSc in general + this module] 
 
