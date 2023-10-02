@@ -2,7 +2,7 @@
 title: "PSGY4009"
 subtitle: "Experimental design for functional imaging"
 author: Denis Schluppeck
-date: 2022-09-09
+date: 2023-10-04
 format:
   revealjs: 
     slide-number: true
@@ -14,7 +14,6 @@ format:
     footer: <https://schluppeck.github.io/edffi>
     theme: [custom]
     self-contained: true
-    scrollable: true
   pdf: 
     output-file: "schluppeck-01-handout.pdf"
     mainfont: "Atkinson Hyperlegible"
@@ -22,10 +21,9 @@ format:
     css: styles.css
     mainfont: "Atkinson Hyperlegible"
     output-file: "schluppeck-01-handout.html"
-    number-sections: true
-    self-contained: true
-    number-sections: true
     toc: true
+number-sections: true
+self-contained: true
 editor: visual
 ---
 
@@ -40,28 +38,28 @@ editor: visual
 
 ## Overview
 
-Check via the [University of Nottingham timetable](https://timetabling.nottingham.ac.uk/2223/)
+Check via the [University of Nottingham timetable](https://timetabling.nottingham.ac.uk/2324/)
 
 ::: r-fit-text
-| week |            | Lecture                                               |
-|------|------------|-------------------------------------------------------|
-| 03   | Schluppeck | Overview, **fMRI & study design.**                    |
-| 04   | Schürmann  | **Basic neuroanatomy.**                               |
-| 05   | Dyke       | **Brain stimulation & study design.**                 |
-| 06   | Cragg      | **Developmental neuroimaging.**                       |
-| 07   | Schluppeck | **Vision + brain imaging.**                           |
-| 08   | Schluppeck | **Q&A, experimental design, coursework.**             |
-| 09   | v Heuven   | **Language.**                                         |
-| 10   | Derrfuss   | **Cognitive control, attention, and working memory.** |
-| 11   | Filik      | **Moral Cognition.**                                  |
-| 12   | Schluppeck | **Perceptual decision making.** Q&A.                  |
+| Timetable week | Lecturer     | Lecture                                               |     |
+|:------------|:------------|:------------|:----------------------------------|
+| 02             | D Schluppeck | Overview, **fMRI & study design.**                    |     |
+| 03             | M Schürmann  | **Basic neuroanatomy**                                |     |
+| 04             | K Dyke       | **Brain stimulation & study design.**                 |     |
+| 05             | W v Heuven   | **Language**                                          |     |
+| 06             | D Schluppeck | **Vision + brain imaging**                            |     |
+| 07             | D Schluppeck | **Q&A, experimental design, coursework**              |     |
+| 08             | L Cragg      | **Developmental neuroimaging.**                       |     |
+| 09             | J Derrfuss   | **Cognitive control, attention, and working memory.** |     |
+| 10             | R Filik      | **Moral Cognition**                                   |     |
+| 11             | D Schluppeck | **Perceptual Decision making**, Q&A for assignment    |     |
 :::
 
 ## Assessment
 
 -   Written assignment (max 3000 words) including a 250 word abstract.
 
--   Details on [moodle (2022/23)](https://moodle.nottingham.ac.uk/course/view.php?id=128949#section-11).
+-   Details on [moodle (2023/24)](https://moodle.nottingham.ac.uk/course/view.php?id=137636#section-11).
 
 . . .
 
@@ -99,11 +97,19 @@ By the end of the lecture you should be able to:
 
 ## LO {background="images/20307dtp.jpg" data-background-opacity="1.0"}
 
+::: {.content-visible unless-format="revealjs"}
+![person being positioned in an MRI scanner](images/20307dtp.jpg)
+:::
+
 ::: {.r-fit-text style="color: white; -webkit-text-stroke: 2px; -webkit-text-fill-color: black;"}
 fMRI basics
 :::
 
 ## fMRI basics {background="images/20307dtp.jpg" data-background-opacity="0.3"}
+
+::: {.content-visible unless-format="revealjs"}
+![person being positioned in an MRI scanner](images/20307dtp.jpg)
+:::
 
 ::: incremental
 -   MRI uses **static** and **oscillating** electromagnetic fields to detect different biological tissue properties.
@@ -153,6 +159,11 @@ General overview of how imaging experiments often work / get designed.
 :::
 
 ## Study {background="images/fMRI-Fig-08-01-0.jpg" data-background-opacity="1.0" background-size="contain"}
+
+::: {.content-visible unless-format="revealjs"}
+![diagram from textbook showing study design ideas](images/fMRI-Fig-08-01-0.jpg)
+:::
+
 
 ## General thoughts (BOLD)
 
@@ -210,7 +221,17 @@ Details of brain anatomy vary across individuals.
 
 ## Example: visual cortex (movie)
 
+::: {.content-visible unless-format="pdf"}
+
 ![one slice over 160 repeated measurements (every 1.5s)](images/test-2.gif){height="400px"}
+
+:::
+
+::: {.content-visible when-format="pdf"}
+
+![one slice over 160 repeated measurements (every 1.5s)](images/test-2.png){height="400px"}
+
+:::
 
 
 ## fMRI measures changes over time
@@ -220,7 +241,7 @@ Details of brain anatomy vary across individuals.
 ## "There is no free lunch"
 
 ::: incremental
--   both, *spatial resolution* and  *temporal resolution*, are limited
+-   both, *spatial resolution* and *temporal resolution*, are limited
 -   often, experimenter has to trade off one against the other
 -   so, different choices for different applications...
 :::
@@ -290,7 +311,7 @@ basis of the blood-oxygen-level-dependent (BOLD) signal
 
 ## Haemodynamic response
 
-the shape of the response to a brief event  is called the haemodynamic response function (HRF)
+the shape of the response to a brief event is called the haemodynamic response function (HRF)
 
 ![haemodynamic response](images/hrf-image.png){.r-stretch}
 
@@ -312,8 +333,7 @@ Thinking about **temporal resolution** particularly important when designing fMR
 
 ## Some principles of experimental design
 
->Why do we need to worry about designing experiments?
-
+> Why do we need to worry about designing experiments?
 
 ::: notes
 break
@@ -365,7 +385,7 @@ Confound:
 :::
 
 ::: fragment
-**Between-subjects designs are sometime unavoidable**a
+**Between-subjects designs are sometime unavoidable**
 
 -   Diagnostic comparisons
 -   Gender effects
@@ -424,11 +444,22 @@ come in two "flavours"
 
 -   Fast/Rapid variable -- rapid stimulus presentation with variable, but short ISI (2s)
 
-## . {background="images/F1.large.jpg" background-size="contain"}
-
-## TP {background="images/temporal-precision.png" background-size="contain"}
+## {#slide-events-id data-menu-title="Comparing different designs" background="images/F1.large.jpg" background-size="contain"}
 
 <!--# Khalife et al (2022) eNeuro paper  !-->
+
+::: {.content-visible unless-format="revealjs"}
+![figure showing timing of events in touch experiment](images/F1.large.jpg)
+:::
+
+## {#slide-temp-precision-id data-menu-title="Temporal precision in fMRI" background="images/temporal-precision.png" background-size="contain"}
+
+::: {.content-visible unless-format="revealjs"}
+![figure illustrating different aspects of temporal precision in fMRI experiments](images/temporal-precision.png)
+:::
+
+
+
 ## Summary
 
 Principles of experimental psychology apply to good fMRI study design also.
@@ -443,12 +474,9 @@ Principles of experimental psychology apply to good fMRI study design also.
 
 ## Thanks
 
-::: .r-fit-text
-
+::: r-fit-text
 See you soon!
-
 :::
-
 
 ## Colophon {.smaller}
 
