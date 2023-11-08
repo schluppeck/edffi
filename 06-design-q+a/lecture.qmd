@@ -2,7 +2,8 @@
 title: "PSGY4009"
 subtitle: "Q+A about assessment, the GLM in more detail"
 author: Denis Schluppeck
-date: 2022-11-07
+date: 2023-11-08
+self-contained: true
 format:
   revealjs: 
     slide-number: true
@@ -13,7 +14,6 @@ format:
     css: styles.css
     footer: <https://schluppeck.github.io/edffi>
     theme: [custom]
-    self-contained: true
     scrollable: true
   pdf: 
     output-file: "schluppeck-06-handout.pdf"
@@ -23,90 +23,107 @@ format:
     mainfont: "Atkinson Hyperlegible"
     output-file: "schluppeck-06-handout.html"
     number-sections: true
-    self-contained: true
-    number-sections: true
     toc: true
 editor: visual
 ---
 
+## Attendance
+
+![qr code](images/2023-24-qr-code.png)
+
 ## Today
 
-::: {.fragment}
+::: fragment
 **Assessment**
 
-- A bit more detail on the written assessment
-- General advice on writing, structure
-
+-   A bit more detail on the written assessment
+-   General advice on writing, structure
 :::
 
-::: {.fragment}
-
+::: fragment
 **The General Linear Model (GLM)**
 
-- intuition / non-mathematical explanation
-- some of the nitty-gritty (in `matlab`)
-- demo in `fsl`
+-   intuition / non-mathematical explanation
+-   some of the nitty-gritty (in `matlab`)
+-   demo in `fsl`
+:::
 
+::: fragment
+**Kinds of designs**
+
+- task, resting state, connectivity, ...
 :::
 
 ## Learning objectives
 
 By the end of the lecture you should:
 
-- know what's expected in coursework
-- have all the information to get started on assessment
-- understand the GLM in principle 
-- appreciate some of the technical details of GLM analysis
+-   know what's expected in coursework
+-   have all the information to get started on assessment
+-   understand the GLM in principle
+-   appreciate some of the technical details of GLM analysis
+-   have some knowledge of different kinds of "designs" / approaches to fMRI for neuroscience
 
 ## Assessment
 
 -   Written assignment (max 3000 words) including a 250 word abstract.
 
--   Details on [moodle (2022/23)](https://moodle.nottingham.ac.uk/course/view.php?id=128949#section-11).
+-   Details on [moodle (2023/24)](https://moodle.nottingham.ac.uk/course/view.php?id=137636#section-11).
 
->The written assignment for this module is an essay about how functional magnetic resonance imaging and/or brain stimulation can be used to study different neuroscience questions. It must cover at least two topics and/or methods from the course.
-
+> The written assignment for this module is an essay about how functional magnetic resonance imaging and/or brain stimulation can be used to study different neuroscience questions. It should cover two topics and/or methods from the course.
 
 ## Not just a literature review
 
->One aim of the assignment is to make you think about the methodological choices the experimenters have to make. After a brief summary of the state of the literature in your area, there should be therefore be a component that talks about how you might extend some previous findings.
+> One aim of the assignment is to make you think about the methodological choices the experimenters have to make. After a brief summary of the state of the literature in your area, there should be therefore be a component that talks about how you might extend some previous findings.
 
-## On moodle {.smaller}
+## On moodle {.scrollable}
 
-There are some suggestions for how you can tackle each section in turn
+![word doc template](images/course-work-snap.png)
+
+## Guided submission {.scrollable}
+
+There are very specific suggestions for how you can tackle each section in turn
 
 **overall word limit, 3000w - stick to this limit**)
 
-- Abstract (maximum 250 words. **stick to this limit**)
-- Introduction (suggested ~500-750 words)
-- Proposed experiment + methods (suggested ~500-1000 words)
-- Expected results (suggested ~250 words)
-- Conclusion / Discussion (suggested ~500-1000 words)
-- References / Citations (no word limit)
+- Title of project (suggested ~10 words)
+- Lay Summary (max 250 words, one paragraph)
+- Scientific Summary (max 250 words, one paragraph)
+- Background of the project (suggested 600 words)
+- Questions to be answered (suggested 200 words) 
+- Plan of investigation (suggested 500 words)
+- Details of data analysis (suggested 500 words)
+- Expected outcomes (suggested 200 words & 1-2 figures)
+- Theoretical & practical implications (suggested 500 words)
+- References
 
 
-## Clear writing
+## Things that you might wonder about:
 
-::: {.fragment}
+- Plan of investigation (suggested 500 words)
 
-**Content**
-
-The **content** of your coursework is (obviously) important
-- topic choice
-- methodological details included
-- facts correct?
-
+:::{style="color:darkgreen;"}
+- Details of data analysis (suggested 500 words)
+- Expected outcomes (suggested 200 words & 1-2 figures)
 :::
 
-::: {.fragment}
+>But I don't have any data (yet?). How to square that circle??
 
+## What do we look for?
+
+::: fragment
+**Content**
+
+The **content** of your coursework is (obviously) important - topic choice - methodological details included - facts correct?
+:::
+
+::: fragment
 **... but writing!**
 
-- clear, concise, economic
-- line of argument?
-- structure easy to follow
-- ...
-
+-   clear, concise, economic
+-   line of argument?
+-   structure easy to follow
+-   ...
 :::
 
 ## Strunk & White - *Elements of Style*
@@ -119,7 +136,7 @@ If you haven't read this little book (26 pages), take the time!
 
 ### Some notes for my demo
 
-```bash
+``` bash
 cd ~/projects/hands-on-brain-data
 julia
 # using Pluto
@@ -131,7 +148,7 @@ julia
 
 ### Some notes for my demo
 
-```matlab
+``` matlab
 cd ~/projects/hands-on-brain-data
 cd data
 X = load('design-3.txt')
@@ -142,7 +159,7 @@ X\y
 
 ## in `fsl`
 
-```bash
+``` bash
 cd ~/projects/hands-on-brain-data
 cd data
 fsleyes filtered_func_data
@@ -154,7 +171,63 @@ fsl &
 
 ![](images/fsleyes_grab.png)
 
-## 
+
+## Kinds of designs / approaches
+
+Two directions, in which people elaborate experiments: 
+
+1. **tasks, stimuli** have become more sophisticated
+2. **data analysis methods** are changing all the time
+
+## Tasks
+
+You can find lots of versions of these across all domains of cognitive neuroscience...
+
+::: {.incremental}
+- task-based experiments
+  - block designs, event-related designs, mixed, ...
+  - "continuous" (eg watching movies)
+- resting state fMRI (rsFMRI)
+:::
+
+## Analysis methods
+
+- GLM, linear regression (the "workhorse" of fMRI analysis)
+
+- data-driven methods (search for patterns in the data)
+  - *independent component analysis*, ICA (dimensionality reduction techniques)
+  - seed-based correlation methods
+  - network analysis, ...
+
+- machine learning, *decoding*
+
+## GLM
+
+
+We have just seen a bit more of this in action
+
+
+## Resting state fMRI
+![example rs analysis](images/smith-fig-1-rs.png)
+
+[Smith et al, 2012, PNAS](https://www.pnas.org/doi/epdf/10.1073/pnas.1121329109)
+
+## Decoding, multivariate analysis
+
+Variously: *classification*, SVM (support vector machines), decoding, even "mind reading", ...
+
+::: {.fragment}
+**Aim:** try to use **data** - the pattern of activity across many voxels (and trials) - to figure out which stimulus was being displayed.
+:::
+
+
+## First use, classic reference
+
+![Kamitani and Tong, 2005](images/41593_2005_Article_BFnn1444_Fig1_HTML.png)
+
+[Kamitani & Tong, 2005](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1808230/)
+
+## Thanks
 
 ::: r-fit-text
 Hope you found this helpful.
