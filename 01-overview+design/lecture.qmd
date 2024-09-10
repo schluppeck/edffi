@@ -2,23 +2,23 @@
 title: "PSGY4009"
 subtitle: "Experimental design for functional imaging"
 author: Denis Schluppeck
-date: 2023-10-04
+date: 2024-10-03
 format:
   revealjs: 
     slide-number: true
-    #chalkboard: 
-    #  buttons: true
     preview-links: auto
     logo: images/edffi-logo-small.png
     css: styles.css
     footer: <https://schluppeck.github.io/edffi>
     theme: [custom]
     self-contained: true
+    output-file: "schluppeck-01-slides.html"
   pdf: 
     output-file: "schluppeck-01-handout.pdf"
-    mainfont: "Atkinson Hyperlegible"
+    mainfont: "Arial"
   html:
-    css: styles.css
+    header-includes: |
+      <link rel="stylesheet" media="screen"   href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&display=swap" type="text/css"/>
     mainfont: "Atkinson Hyperlegible"
     output-file: "schluppeck-01-handout.html"
     toc: true
@@ -38,28 +38,27 @@ editor: visual
 
 ## Overview
 
-Check via the [University of Nottingham timetable](https://timetabling.nottingham.ac.uk/2324/)
-
 ::: r-fit-text
 | Timetable week | Lecturer     | Lecture                                               |     |
-|:------------|:------------|:------------|:----------------------------------|
+|:-------------|:-------------|:-------------|:----------------------------|
 | 02             | D Schluppeck | Overview, **fMRI & study design.**                    |     |
 | 03             | M Schürmann  | **Basic neuroanatomy**                                |     |
 | 04             | K Dyke       | **Brain stimulation & study design.**                 |     |
 | 05             | W v Heuven   | **Language**                                          |     |
-| 06             | D Schluppeck | **Vision + brain imaging**                            |     |
-| 07             | D Schluppeck | **Q&A, experimental design, coursework**              |     |
-| 08             | L Cragg      | **Developmental neuroimaging.**                       |     |
-| 09             | J Derrfuss   | **Cognitive control, attention, and working memory.** |     |
-| 10             | R Filik      | **Moral Cognition**                                   |     |
-| 11             | D Schluppeck | **Perceptual Decision making**, Q&A for assignment    |     |
+| 06             |  | **Reading week (!)**                            |     |
+| 07             | D Schluppeck | **Vision + brain imaging**                            |     |
+| 08             | D Schluppeck | **Q&A, experimental design, coursework**              |     |
+| 09             | L Cragg      | **Developmental neuroimaging.**                       |     |
+| 10             | J Derrfuss   | **Cognitive control, attention, and working memory.** |     |
+| 11             | R Filik      | **Moral Cognition**                                   |     |
+| 12             | D Schluppeck | **Perceptual Decision making**, Q&A for assignment    |     |
 :::
 
 ## Assessment
 
 -   Written assignment (max 3000 words) including a 250 word abstract.
 
--   Details on [moodle (2023/24)](https://moodle.nottingham.ac.uk/course/view.php?id=137636#section-11).
+-   Details on [moodle (2024/25)](https://moodle.nottingham.ac.uk/course/view.php?id=137637).
 
 . . .
 
@@ -164,7 +163,6 @@ General overview of how imaging experiments often work / get designed.
 ![diagram from textbook showing study design ideas](images/fMRI-Fig-08-01-0.jpg)
 :::
 
-
 ## General thoughts (BOLD)
 
 What does the blood-oxygen-level-dependent (BOLD) signal measure?
@@ -222,17 +220,12 @@ Details of brain anatomy vary across individuals.
 ## Example: visual cortex (movie)
 
 ::: {.content-visible unless-format="pdf"}
-
 ![one slice over 160 repeated measurements (every 1.5s)](images/test-2.gif){height="400px"}
-
 :::
 
 ::: {.content-visible when-format="pdf"}
-
 ![one slice over 160 repeated measurements (every 1.5s)](images/test-2.png){height="400px"}
-
 :::
-
 
 ## fMRI measures changes over time
 
@@ -444,7 +437,7 @@ come in two "flavours"
 
 -   Fast/Rapid variable -- rapid stimulus presentation with variable, but short ISI (2s)
 
-## {#slide-events-id data-menu-title="Comparing different designs" background="images/F1.large.jpg" background-size="contain"}
+##  {#slide-events-id data-menu-title="Comparing different designs" background="images/F1.large.jpg" background-size="contain"}
 
 <!--# Khalife et al (2022) eNeuro paper  !-->
 
@@ -452,13 +445,11 @@ come in two "flavours"
 ![figure showing timing of events in touch experiment](images/F1.large.jpg)
 :::
 
-## {#slide-temp-precision-id data-menu-title="Temporal precision in fMRI" background="images/temporal-precision.png" background-size="contain"}
+##  {#slide-temp-precision-id data-menu-title="Temporal precision in fMRI" background="images/temporal-precision.png" background-size="contain"}
 
 ::: {.content-visible unless-format="revealjs"}
 ![figure illustrating different aspects of temporal precision in fMRI experiments](images/temporal-precision.png)
 :::
-
-
 
 ## Summary
 
