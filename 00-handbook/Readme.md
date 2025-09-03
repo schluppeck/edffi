@@ -15,7 +15,7 @@ The following is a quick overview of the kind of material you will learn about. 
 
 You can also check time / location via the [University of Nottingham timetable](https://timetabling.nottingham.ac.uk/2526/)
 
-timetable *as of 2024-09-09* - some of the lectures may change in order.
+timetable *as of 2025-09-03* - some of the lectures may change in order / details.
 
 | Timetable week     | Date | Lecture |  Lecturer  | Lecture                                     |
 |:-------------------|:------- |:-----|:-----------|:--------------------------------------------|
