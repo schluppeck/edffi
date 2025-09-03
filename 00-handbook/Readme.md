@@ -9,7 +9,6 @@ The following is a quick overview of the kind of material you will learn about. 
 
 ## Schedule
 
-
 **Where** UP Clive Granger A48 - [on map](https://www.google.com/maps/d/edit?mid=12eOQfXV7jnlJXiSPlR0Grm7RP0VFaKE&usp=sharing)
 
 **When**  1600-1800h Thursdays in Autumn Term.
@@ -18,24 +17,23 @@ You can also check time / location via the [University of Nottingham timetable](
 
 timetable *as of 2024-09-09* - some of the lectures may change in order.
 
-| Timetable week | Date |  Lecturer  | Lecture                                                 |
-|:--------------|:----|:----------|:-------------------------------------------------------|
-| 02 | 03 Oct 2024 |  D Schluppeck | Overview, **fMRI & study design.**                    |
-| 03 | 10 Oct 2024 |  M Schürmann  | **Basic neuroanatomy**                                |
-| 04 | 17 Oct 2024 |  K Dyke       | **Brain stimulation & study design.**                 |
-| 05 | 24 Oct 2024 |  W v Heuven   | **Language**                                          |
-| 06 | 31 Oct 2024 | **Reading week**    (no lecture)                                      |
-| 07 | 07 Nov 2024 |  D Schluppeck | **Vision + brain imaging**                            |
-| 08 | 14 Nov 2024 |  D Schluppeck | **Q&A, experimental design, coursework**              |
-| 09 | 21 Nov 2024 |  L Cragg      | **Developmental neuroimaging.**                       | 
-| 10 | 28 Nov 2024 |  J Derrfuss   | **Cognitive control, attention, and working memory.** |
-| 11 | 05 Dec 2024 |  R Filik      | **Moral Cognition**                                   |
-| 12 | 12 Dec 2024 |  D Schluppeck | **Perceptual Decision making**, Conclusion / recap    |
-
+| Timetable week     | Date | Lecture |  Lecturer  | Lecture                                     |
+|:-------------------|:------- |:-----|:-----------|:--------------------------------------------|
+| 02 | 2025-09-30    | 1 |  Schluppeck / Griffiths  | Overview, **fMRI & study design.**         |
+| 03 | 2025-10-07    | 2 |  M Schürmann  | **Basic neuroanatomy**                                |
+| 04 | 2025-10-14    | 3 |  K Dyke       | **Brain stimulation & study design.**                 |
+| 05 | 2025-10-21    | 4 |  W v Heuven   | **Language**                                          |
+| 06 | 2025-10-28    |   | **Reading week**    (no lecture)                                      |
+| 07 | 2025-11-04    | 5 |  D Schluppeck | **Q&A, experimental design, coursework**              |
+| 08 | 2025-11-11    | 6 |  B Griffiths  | **Vision + brain imaging**                            |
+| 09 | 2025-11-18    | 7 |  L Cragg      | **Developmental neuroimaging.**                       | 
+| 10 | 2025-11-25    | 8 |  J Derrfuss   | **Cognitive control, attention, and working memory.** |
+| 11 | 2025-12-02    | 9 |  R Filik      | **Moral Cognition**                                   |
+| 12 | 2025-12-09    | 10|  D Schluppeck | **Perceptual Decision making**, Conclusion / recap    |
 
 ## Assessment
 
-Written assignment (max 3000 words) including a 250 word abstract. For details and the submission link, please see [the moodle page](https://moodle.nottingham.ac.uk/course/view.php?id=137637)
+Written assignment (max 3000 words) including a 250 word abstract. For details and the submission link, please see [the moodle page](https://moodle.nottingham.ac.uk/course/section.php?id=1982033)
 
 ## Learning outcomes [MSc in general + this module] 
 

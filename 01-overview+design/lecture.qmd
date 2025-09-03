@@ -13,6 +13,9 @@ format:
     theme: [custom]
     self-contained: true
     output-file: "schluppeck-01-slides.html"
+  pptx: 
+    output-file: "schluppeck-01-handout.pptx"
+    mainfont: "Arial"
   pdf: 
     output-file: "schluppeck-01-handout.pdf"
     mainfont: "Arial"
@@ -39,19 +42,19 @@ editor: visual
 ## Overview
 
 ::: r-fit-text
-| Timetable week | Lecturer     | Lecture                                               |     |
-|:-------------|:-------------|:-------------|:----------------------------|
-| 02             | D Schluppeck | Overview, **fMRI & study design.**                    |     |
-| 03             | M Schürmann  | **Basic neuroanatomy**                                |     |
-| 04             | K Dyke       | **Brain stimulation & study design.**                 |     |
-| 05             | W v Heuven   | **Language**                                          |     |
-| 06             |  | **Reading week (!)**                            |     |
-| 07             | D Schluppeck | **Vision + brain imaging**                            |     |
-| 08             | D Schluppeck | **Q&A, experimental design, coursework**              |     |
-| 09             | L Cragg      | **Developmental neuroimaging.**                       |     |
-| 10             | J Derrfuss   | **Cognitive control, attention, and working memory.** |     |
-| 11             | R Filik      | **Moral Cognition**                                   |     |
-| 12             | D Schluppeck | **Perceptual Decision making**, Q&A for assignment    |     |
+| Timetable week | Lecturer | Lecture |   |
+|:-----------------|:-----------------|:-----------------|:-------------------|
+| 02 | D Schluppeck | Overview, **fMRI & study design.** |  |
+| 03 | M Schürmann | **Basic neuroanatomy** |  |
+| 04 | K Dyke | **Brain stimulation & study design.** |  |
+| 05 | W v Heuven | **Language** |  |
+| 06 |  | **Reading week (!)** |  |
+| 07 | D Schluppeck | **Vision + brain imaging** |  |
+| 08 | D Schluppeck | **Q&A, experimental design, coursework** |  |
+| 09 | L Cragg | **Developmental neuroimaging.** |  |
+| 10 | J Derrfuss | **Cognitive control, attention, and working memory.** |  |
+| 11 | R Filik | **Moral Cognition** |  |
+| 12 | D Schluppeck | **Perceptual Decision making**, Q&A for assignment |  |
 :::
 
 ## Assessment
@@ -80,7 +83,7 @@ editor: visual
 
 ## Learning objectives
 
-::: columns
+::::: columns
 ::: {.column .fragment width="60%"}
 By the end of the lecture you should be able to:
 
@@ -92,7 +95,7 @@ By the end of the lecture you should be able to:
 ::: {.column .fragment width="40%"}
 ![image of statistical maps on brains](images/blobs-on-brains.png)
 :::
-:::
+:::::
 
 ## LO {background="images/20307dtp.jpg" data-background-opacity="1.0"}
 
@@ -120,7 +123,7 @@ fMRI basics
 
 ## Example research questions
 
-::: columns
+:::::: columns
 ::: {.column .fragment width="45%"}
 ![](images/approach-finding-areas.png){width="100%"} **Where** are the areas more active in **Condition A** than in **Condition B**?
 :::
@@ -131,7 +134,7 @@ fMRI basics
 ::: {.column .fragment width="45%"}
 ![](images/approach-using-rois.svg){width="100%"} How do pre-defined **regions of interest** respond in different experimental conditions?
 :::
-:::
+::::::
 
 ## Experimental "pipeline"
 
@@ -196,7 +199,7 @@ Details of brain anatomy vary across individuals.
 
 ## Example data / images
 
-::: columns
+:::::: columns
 ::: {.column .fragment width="45%"}
 ![Anatomical image (T1w)](images/anatomical-image.png){fig-alt="anatomy" fig-align="left" width="80%"}
 :::
@@ -207,7 +210,7 @@ Details of brain anatomy vary across individuals.
 ::: {.column .fragment width="45%"}
 ![Functional image (T2\*, EPI)](images/functional-image.png){fig-alt="fMRI image" fig-align="left" width="80%"}
 :::
-:::
+::::::
 
 ## fMRI measures changes over time
 
