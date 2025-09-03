@@ -9,11 +9,11 @@ The following is a quick overview of the kind of material you will learn about. 
 
 ## Schedule
 
-**Where** UP Clive Granger A48 - [on map](https://www.google.com/maps/d/edit?mid=12eOQfXV7jnlJXiSPlR0Grm7RP0VFaKE&usp=sharing)
+**Where** UP Life Sciences B1 
 
-**When**  1600-1800h Thursdays in Autumn Term.
+**When**  13:00-15:00h Tuesdays in Autumn Term.
 
-You can also check time / location via the [University of Nottingham timetable](https://timetabling.nottingham.ac.uk/2425/)
+You can also check time / location via the [University of Nottingham timetable](https://timetabling.nottingham.ac.uk/2526/)
 
 timetable *as of 2024-09-09* - some of the lectures may change in order.
 
