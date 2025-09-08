@@ -1,4 +1,4 @@
-# Decision making
+# fMRI of touch +- decision making
 
 - Cognitive neuroscience and fMRI
 

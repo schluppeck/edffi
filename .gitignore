@@ -1,5 +1,7 @@
 *.test
 *.DS_Store
 
+.Rhistory
+.RData
 .Rproj.user
 *local-materials/

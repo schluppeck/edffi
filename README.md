@@ -27,12 +27,12 @@ Link back to the [moodle page](https://moodle.nottingham.ac.uk/course/view.php?i
 
 - D Schluppeck / B Griffiths - Overview, **fMRI & study design.** [lecture materials](01-overview+design/)
 - M Schürmann  - **Basic neuroanatomy** (moodle)
-- K Dyke       - **Brain stimulation & study design.** (moodle)
-- L Cragg      - **Developmental neuroimaging.** (moodle)
-- D Schluppeck - **Q&A, experimental design, coursework** [lecture materials](05-design-q+a/index.md)
-- B Griffiths  - **Vision + brain imaging** (moodle)
+- D Venerio    - **Brain stimulation & study design.** (moodle)
 - W v Heuven   - **Language** (moodle)
+- D Schluppeck - **Q&A, experimental design, coursework** [lecture materials](05-design-q+a/index.md)
+- L Cragg      - **Developmental neuroimaging.** (moodle)
+- B Griffiths  - **Vision + brain imaging** (moodle)
 - J Derrfuss   - **Cognitive control, attention, and working memory.** (moodle)
 - R Filik      - **Moral Cognition** (moodle)
-- D Schluppeck - **Perceptual decision making**, Q&A (moodle)
+- M Asghar (D Schluppeck) - **Touch / Somatosensation** [+- **Perceptual decision making**] (moodle)
   

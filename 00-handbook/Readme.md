@@ -21,21 +21,21 @@ timetable *as of 2025-09-03* - some of the lectures may change in order / detail
 |:-------------------|:------- |:-----|:-----------|:--------------------------------------------|
 | 02 | 2025-09-30    | 1 |  Schluppeck / Griffiths  | Overview, **fMRI & study design.**         |
 | 03 | 2025-10-07    | 2 |  M Schürmann  | **Basic neuroanatomy**                                |
-| 04 | 2025-10-14    | 3 |  K Dyke       | **Brain stimulation & study design.**                 |
+| 04 | 2025-10-14    | 3 |  D Venerio    | **Brain stimulation & study design.**                 |
 | 05 | 2025-10-21    | 4 |  W v Heuven   | **Language**                                          |
 | 06 | 2025-10-28    |   | **Reading week**    (no lecture)                                      |
 | 07 | 2025-11-04    | 5 |  D Schluppeck | **Q&A, experimental design, coursework**              |
-| 08 | 2025-11-11    | 6 |  B Griffiths  | **Vision + brain imaging**                            |
-| 09 | 2025-11-18    | 7 |  L Cragg      | **Developmental neuroimaging.**                       | 
+| 08 | 2025-11-11    | 6 |  L Cragg      | **Developmental neuroimaging.**                       | 
+| 09 | 2025-11-18    | 7 |  B Griffiths  | **Vision + brain imaging**                            |
 | 10 | 2025-11-25    | 8 |  J Derrfuss   | **Cognitive control, attention, and working memory.** |
 | 11 | 2025-12-02    | 9 |  R Filik      | **Moral Cognition**                                   |
-| 12 | 2025-12-09    | 10|  D Schluppeck | **Perceptual Decision making**, Conclusion / recap    |
+| 12 | 2025-12-09    | 10|  M Ashgar / D Schluppeck | Module recap, **Touch / Somatosensation** (+- decision making)   |
 
 ## Assessment
 
 Written assignment (max 3000 words) including a 250 word abstract. For details and the submission link, please see [the moodle page](https://moodle.nottingham.ac.uk/course/section.php?id=1982033)
 
-## Learning outcomes [MSc in general + this module] 
+## Learning outcomes [MSc in general + this module]
 
 ### Knowledge and understanding
 
