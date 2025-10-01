@@ -2,7 +2,7 @@
 title: "PSGY4009"
 subtitle: "Experimental design for functional imaging"
 author: Denis Schluppeck
-date: 2024-10-03
+date: 2025-09-30
 format:
   revealjs: 
     slide-number: true
@@ -42,19 +42,19 @@ editor: visual
 ## Overview
 
 ::: r-fit-text
-| Timetable week | Lecturer | Lecture |   |
-|:-----------------|:-----------------|:-----------------|:-------------------|
-| 02 | D Schluppeck | Overview, **fMRI & study design.** |  |
-| 03 | M Schürmann | **Basic neuroanatomy** |  |
-| 04 | K Dyke | **Brain stimulation & study design.** |  |
-| 05 | W v Heuven | **Language** |  |
-| 06 |  | **Reading week (!)** |  |
-| 07 | D Schluppeck | **Vision + brain imaging** |  |
-| 08 | D Schluppeck | **Q&A, experimental design, coursework** |  |
-| 09 | L Cragg | **Developmental neuroimaging.** |  |
-| 10 | J Derrfuss | **Cognitive control, attention, and working memory.** |  |
-| 11 | R Filik | **Moral Cognition** |  |
-| 12 | D Schluppeck | **Perceptual Decision making**, Q&A for assignment |  |
+| Timetable week     | Date | Lecture |  Lecturer  | Lecture                                     |
+|:-------------------|:------- |:-----|:-----------|:--------------------------------------------|
+| 02 | 2025-09-30    | 1 |  Schluppeck / Griffiths  | Overview, **fMRI & study design.**         |
+| 03 | 2025-10-07    | 2 |  M Schürmann  | **Basic neuroanatomy**                                |
+| 04 | 2025-10-14    | 3 |  D Venerio    | **Brain stimulation & study design.**                 |
+| 05 | 2025-10-21    | 4 |  W v Heuven   | **Language**                                          |
+| 06 | 2025-10-28    |   | **Reading week**    (no lecture)                                      |
+| 07 | 2025-11-04    | 5 |  D Schluppeck | **Q&A, experimental design, coursework**              |
+| 08 | 2025-11-11    | 6 |  L Cragg      | **Developmental neuroimaging.**                       | 
+| 09 | 2025-11-18    | 7 |  B Griffiths  | **Vision + brain imaging**                            |
+| 10 | 2025-11-25    | 8 |  J Derrfuss   | **Cognitive control, attention, and working memory.** |
+| 11 | 2025-12-02    | 9 |  R Filik      | **Moral Cognition**                                   |
+| 12 | 2025-12-09    | 10|  M Ashgar / D Schluppeck | Module recap, **Touch / Somatosensation** (+- decision making)   |
 :::
 
 ## Assessment
