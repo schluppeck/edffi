@@ -146,6 +146,8 @@ julia> Pluto.run()
 # "what_is_linearReg.jl"
 ```
 
+[Link to Install instructions](https://echo360.org.uk/public/media/cb45dbfd-de4a-4180-9700-bc8c48ddf6f3)
+
 
 
 ## in `Matlab`
@@ -171,7 +173,6 @@ fsl &
 # simple block design ... stats: 6, (12, 12, 12)
 ```
 
-[Link to Install instructions](https://echo360.org.uk/public/media/cb45dbfd-de4a-4180-9700-bc8c48ddf6f3)
 
 ## in `fsl`/`fsleyes`
 
