@@ -2,7 +2,7 @@
 title: "PSGY4009"
 subtitle: "Q+A about assessment, the GLM in more detail"
 author: Denis Schluppeck
-date: 2024-11-14
+date: 2025-11-04
 self-contained: true
 format:
   revealjs: 
@@ -16,12 +16,12 @@ format:
     theme: [custom]
     scrollable: true
   pdf: 
-    output-file: "schluppeck-06-handout.pdf"
+    output-file: "schluppeck-05-handout.pdf"
     mainfont: "Atkinson Hyperlegible"
   html:
     css: styles.css
     mainfont: "Atkinson Hyperlegible"
-    output-file: "schluppeck-06-handout.html"
+    output-file: "schluppeck-05-handout.html"
     number-sections: true
     toc: true
 editor: visual
@@ -29,7 +29,7 @@ editor: visual
 
 ## Attendance
 
-![qr code](images/2024-25-qr-code.png)
+![qr code](images/2025-26-qr-code.png)
 
 ## Today
 
@@ -44,8 +44,9 @@ editor: visual
 **The General Linear Model (GLM)**
 
 -   intuition / non-mathematical explanation
--   some of the nitty-gritty (in `matlab`)
--   demo in `fsl`
+-   (how to get hold of my *interactive* notebooks)
+-   some of the nitty-gritty (in `Matlab`)
+-   demo analysis in `fsl` (quick walk-through)
 :::
 
 ::: fragment
@@ -68,7 +69,7 @@ By the end of the lecture you should:
 
 -   Written assignment (max 3000 words) including a 250 word abstract.
 
--   Details on [moodle (2024/25)](https://moodle.nottingham.ac.uk/course/view.php?id=137637#sectionid-1830447-title).
+-   Details on [moodle (2025/26)](https://moodle.nottingham.ac.uk/course/section.php?id=1982033).
 
 > The written assignment for this module is an essay about how functional magnetic resonance imaging and/or brain stimulation can be used to study different neuroscience questions. It should cover two topics and/or methods from the course.
 
@@ -137,17 +138,21 @@ If you haven't read this little book (26 pages), take the time!
 
 ``` bash
 cd ~/projects/hands-on-brain-data
-julia
-# using Pluto
-# Pluto.run()
+julia # which starts julia
+
+julia> using Pluto
+julia> Pluto.run()
+
 # "what_is_linearReg.jl"
 ```
 
-## in `matlab`
+
+
+## in `Matlab`
 
 ### Some notes for my demo
 
-``` matlab
+```matlab
 cd ~/projects/hands-on-brain-data
 cd data
 X = load('design-3.txt')
@@ -187,6 +192,12 @@ You can find lots of versions of these across all domains of cognitive neuroscie
     -   "continuous" (eg watching movies)
 -   resting state fMRI (rsFMRI)
 :::
+
+## Example
+
+![](./images/block-vs-event.png)
+
+
 
 ## Analysis methods
 
